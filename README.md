@@ -8,7 +8,7 @@ This project is a simple React application that implements counter and navbar co
 
 
 In the project directory, you can run:
-### npx create-react-app
+### `npx create-react-app`
 To create the app
 
 ### `npm start`
