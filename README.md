@@ -1,10 +1,15 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple React application that implements counter and navbar component. The counter allows users to increment, decrement, and reset a numeric value displayed on the screen. The Navbar shows the count of counter used. I used both functional and class based components to understand both types of components. The application is built using the create-react-app boilerplate and includes basic styling using CSS. 
+
+
 
 ## Available Scripts
 
+
 In the project directory, you can run:
+### npx create-react-app
+To create the app
 
 ### `npm start`
 
