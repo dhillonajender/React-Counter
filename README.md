@@ -1,4 +1,4 @@
-# Getting Started with Counter React App
+# Getting Started with Counter App
 
 This project is a simple React application that implements counter and navbar component. The counter allows users to increment, decrement, and reset a numeric value displayed on the screen. The Navbar shows the count of elements used. To comprehend the workings of each type of component, I utilized both functional and class-based components. The application is built using the create-react-app boilerplate and includes basic styling using CSS and BootStrap. 
 
