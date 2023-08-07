@@ -1,7 +1,7 @@
 
 # React Counter App
 
-![React Counter App]([https://github.com/dhillonajender/React-Counter/raw/main/screenshot.png](https://github.com/dhillonajender/React-Counter/blob/main/Screenshot%202023-04-10%20at%205.10.52%20PM.png))
+![React Counter App]([(https://github.com/dhillonajender/React-Counter/blob/main/Screenshot%202023-04-10%20at%205.10.52%20PM.png)])
 
 Welcome to the React Counter App repository! This project features a simple yet dynamic React application that demonstrates the implementation of a counter and a navigation bar component. Users can interact with the counter by incrementing, decrementing, and resetting a numeric value displayed on the screen. The navigation bar showcases the count of elements utilized in the app. Through a blend of functional and class-based components, this project offers insights into different types of component structures. The application is constructed using the `create-react-app` boilerplate and includes basic styling using CSS and Bootstrap.
 
